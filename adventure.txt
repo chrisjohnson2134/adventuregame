@@ -1,0 +1,20 @@
+new house start
+item knife
+item plate
+exit south mall
+exit north store
+description 
+I need to eat
+toggle knife
+he doesn't have a knife
+he does have a knife 
+win knife
+win plate
+new store new
+item PB
+item bread
+win PB
+win bread
+exit south house
+super win
+you've won the game of sandwich
